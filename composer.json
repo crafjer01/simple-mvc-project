@@ -1,0 +1,15 @@
+{
+    "name": "pineda-made/solascriptura",
+    "authors": [
+        {
+            "name": "crafjer01",
+            "email": "eduardopineda06@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
